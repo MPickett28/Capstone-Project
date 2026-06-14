@@ -1,0 +1,28 @@
+App Design
+
+Slider Panel
+
+Duck ID (button to open up the ducks info)
+
+Duck Info↓ (button to bring you to pin location on GPS)
+	What They look like
+	There habitat
+	Where they are seen to the most
+	What they eat
+	Hunting Tips
+
+Map↓ 
+  GPS (API)
+  Compass (API)
+
+Weather (API that loads when online then preserves last recorded data when offline)
+
+Hunting Rules and guides
+
+Resources
+
+Settings
+
+App Support
+
+
