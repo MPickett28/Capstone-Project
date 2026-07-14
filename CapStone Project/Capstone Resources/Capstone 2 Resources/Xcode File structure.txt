@@ -1,0 +1,56 @@
+DuckIdentifier
+│
+├── App
+│   ├── DuckIdentifierApp.swift
+│   └── MainTabView.swift
+│
+├── Models
+│   ├── DuckSpecies.swift
+│   ├── DuckSighting.swift
+│   └── WeatherSnapshot.swift
+│
+├── Data
+│   └── DuckData.swift
+│
+├── Views
+│   ├── Identify
+│   │   ├── IdentifyView.swift
+│   │   ├── CameraPicker.swift
+│   │   └── IdentificationResultView.swift
+│   │
+│   ├── Ducks
+│   │   ├── DuckListView.swift
+│   │   └── DuckDetailView.swift
+│   │
+│   ├── Map
+│   │   ├── SightingMapView.swift
+│   │   ├── SightingDetailView.swift
+│   │   └── AddSightingView.swift
+│   │
+│   ├── Weather
+│   │   └── WeatherView.swift
+│   │
+│   └── More
+│       ├── MoreView.swift
+│       ├── HuntingRulesView.swift
+│       ├── ResourcesView.swift
+│       ├── SettingsView.swift
+│       └── SupportView.swift
+│
+├── Services
+│   ├── ImageClassificationService.swift
+│   ├── LocationManager.swift
+│   ├── WeatherService.swift
+│   └── PersistenceService.swift
+│
+├── ViewModels
+│   ├── IdentificationViewModel.swift
+│   ├── SightingsViewModel.swift
+│   └── WeatherViewModel.swift
+│
+├── MachineLearning
+│   └── DuckClassifier.mlmodel
+│
+└── Assets
+    ├── Duck images
+    └── App icons
